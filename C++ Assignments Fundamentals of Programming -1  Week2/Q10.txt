@@ -1,0 +1,3 @@
+The output of the code is:
+“The value of b and c respectively are 300 and 200”
+
